@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Hornet",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/8/80/B_Hornet2.png/revision/latest/scale-to-width-down/310?cb=20180821143910"
+    },
+    {
+      "id": 2,
+      "name": "Sly",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/f/f9/Sly.png/revision/latest?cb=20180924001337"
+    },
+    {
+      "id": 3,
+      "name": "Cornifer",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/f/ff/Cornifer.png/revision/latest/scale-to-width-down/310?cb=20170330135557"
+    },
+    {
+      "id": 4,
+      "name": "Cloth",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/4/4f/Cloth-2.png/revision/latest?cb=20180830231044"
+    },
+    {
+      "id": 5,
+      "name": "Bretta",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/9/96/Bretta.png/revision/latest?cb=20190119053920"
+    },
+    {
+      "id": 6,
+      "name": "Grimm",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/b/ba/Grimm_Idle.png/revision/latest?cb=20181201000031"
+    },
+    {
+      "id": 7,
+      "name": "Seer",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/e/ee/Seer.png/revision/latest?cb=20170417115442"
+    },
+    {
+      "id": 8,
+      "name": "Lemm",
+      "clicked": false,
+      "image":
+        "https://vignette.wikia.nocookie.net/hollowknight/images/4/43/RelicSeekerLemm.png/revision/latest?cb=20170417114653"
+    }
+  ]
+  

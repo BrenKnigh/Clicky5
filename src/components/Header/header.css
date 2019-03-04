@@ -1,0 +1,26 @@
+.jumbotron {
+	background-image: url("http://teamcherry.com.au/wp-content/uploads/banner_real.jpg");
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: black;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: White;
+}

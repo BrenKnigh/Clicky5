@@ -4,14 +4,14 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "homepage": "https://brenknigh.github.io/Clicky5/",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
-    "homepage":"https://brenknigh.github.io/Clicky5/"
+    "react-scripts": "2.1.5"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
